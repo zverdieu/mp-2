@@ -1,5 +1,4 @@
 import DBZ from "./components/DBZ.tsx";
-import styled from "styled-components";
 import { useEffect, useState } from "react";
 import type { Character } from "./interfaces/Characters.ts";
 import type { JikanCharacter } from "./interfaces/JikanCharacters.ts";
